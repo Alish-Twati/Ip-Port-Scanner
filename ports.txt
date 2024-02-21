@@ -1,8 +1,8 @@
-All open ports for target IP 192.168.62.1:
+All open ports for target IP (targetIp):
 135 Port
 139 Port
 
-All closed ports for target IP 192.168.62.1:
+All closed ports for target IP (targetIp):
 130 Port
 131 Port
 132 Port
