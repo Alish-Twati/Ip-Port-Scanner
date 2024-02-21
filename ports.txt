@@ -1,0 +1,14 @@
+All open ports for target IP 192.168.62.1:
+135 Port
+139 Port
+
+All closed ports for target IP 192.168.62.1:
+130 Port
+131 Port
+132 Port
+133 Port
+134 Port
+136 Port
+137 Port
+138 Port
+140 Port
